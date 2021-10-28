@@ -1,0 +1,2 @@
+# pythondars
+Python darslari
